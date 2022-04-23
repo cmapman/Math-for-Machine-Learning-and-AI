@@ -8,4 +8,4 @@
 
 3. "Anscombe's Quartet" in Python
 
-[Exploratory data Analysis (EDA)](https://github.com/cmapman/Math-for-Machine-Learning-and-AI/blob/main/Statistics/EDA.ipynb)
+[Exploratory Data Analysis (EDA)](https://github.com/cmapman/Math-for-Machine-Learning-and-AI/blob/main/Statistics/EDA.ipynb)
